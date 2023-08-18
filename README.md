@@ -59,7 +59,6 @@ Project Organization
 
 Steps to access the Project
 ------------
-
 1. Clone the Repository
  Using the git clone command, copy the project files from the online Git repository to your local computer.
 
