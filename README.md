@@ -62,7 +62,7 @@ Steps to access the Project
 1. Clone the Repository
  Using the git clone command, copy the project files from the online Git repository to your local computer.
 
-2.Access the Reository
+2. Access the Reository
  Open the cmd prompt on your local machine, then go to the directory containing the cloned project.
 
 3. Create a virtual setting:
