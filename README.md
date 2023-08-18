@@ -59,10 +59,10 @@ Project Organization
 
 Steps to access the Project
 ------------
-1. Clone the Repository
+1. Clone the Repository:
  Using the git clone command, copy the project files from the online Git repository to your local computer.
 
-2. Access the Reository
+2. Access the Reository:
  Open the cmd prompt on your local machine, then go to the directory containing the cloned project.
 
 3. Create a virtual setting:
@@ -71,6 +71,6 @@ To prevent problems with other projects, it is recommended to a separate environ
 4. Install Requirements:
 Using the pip install command, install the necessary libraries.
 
-5. Execute the Code
+5. Execute the Code:
 Use the notebooks provided in the repository to run the code.
 
