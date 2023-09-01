@@ -3,6 +3,20 @@ Adv_MLA
 The project aims to create a predictive model to predict whether a basketball player will get drafted into the NBA based on their performance, draft-related and player's game-specific matrices. The project utilises machine learning techniques for predicting draft outcomes.
 
 
+Week-1 XGBoost 
+-------------------------------------------------------
+I have utilised XGBoost to determine how well it can predict the drafting probabilities of players using multiple independent features.
+
+
+Week-2 AdaBoost with Automated Hyperparameter Tuning
+-----------------------------------------------------
+I have utilised AdaBoost with Automated Hyperparameter Tuning to determine how well it can predict the drafting probabilities of players using multiple independent features.
+
+Week-1 XGBoost with Automated Hyperparameter Tuning
+-------------------------------------------------------
+I have utilised XGBoost with Automated Hyperparameter Tuning to determine how well it can predict the drafting probabilities of players using multiple independent features.
+
+
 Project Organization
 ------------
 
