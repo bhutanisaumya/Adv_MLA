@@ -81,7 +81,7 @@ Initializing and Pushing to a Remote Repository
 -------------------------------------------------
 1. Initialize Repository: git init initializes a new Git repository.
  
-2. Add Remote Repository: git remote add origin git@github.com:bhutanisaumya/Adv_MLA.git sets up the remote repository.
+2. Add Remote Repository: git remote add origin git@github.com:bhutanisaumya/NBA_Draft.git sets up the remote repository.
  
 3. Stage Changes: git add . stages all changes in the current directory.
       
