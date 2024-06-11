@@ -1,25 +1,26 @@
-Adv_MLA
-==============================
-This project focuses on building a predictive model for NBA draft selections. By utilizing Machine learning techniques to determine if a college basketball player will be drafted into the NBA based on their performance, draft-related data, and game-specific attributes. Classification modelling techniques are employed, and model effectiveness is assessed through AU ROC scores on validation datasets.
+Advanced Machine Learning for NBA Draft Prediction
+=====================================================
+This repository contains the project "Advanced Machine Learning for NBA Draft Prediction," which focuses on building predictive models to determine if college basketball players will be drafted into the NBA. Using various machine learning techniques, we analyze player performance, draft-related data, and game-specific attributes to create classification models. The effectiveness of these models is evaluated using AU ROC scores on validation datasets.
 
+Weekly Progress
+-------------------------------------------------------
 
 Week-1 XGBoost 
 -------------------------------------------------------
-I have utilised XGBoost to determine how well it can predict the drafting probabilities of players using multiple independent features.
+Implemented XGBoost to predict the drafting probabilities of players based on multiple independent features.
 
 
 Week-2 AdaBoost with Automated Hyperparameter Tuning
 -----------------------------------------------------
-I have utilised AdaBoost with Automated Hyperparameter Tuning to determine how well it can predict the drafting probabilities of players using multiple independent features.
+Used AdaBoost with automated hyperparameter tuning to enhance the prediction accuracy of drafting probabilities.
 
 Week-3 XGBoost with Automated Hyperparameter Tuning
 -------------------------------------------------------
-I have utilised XGBoost with Automated Hyperparameter Tuning to determine how well it can predict the drafting probabilities of players using multiple independent features.
+Refined the XGBoost model with automated hyperparameter tuning to improve prediction outcomes.
 
 Week-4 Gradient Boost with Automated Hyperparameter Tuning
 -------------------------------------------------------
-I have utilised Gradient Boost with Automated Hyperparameter Tuning to determine how well it can predict the drafting probabilities of players using multiple independent features.
-
+Applied Gradient Boosting with automated hyperparameter tuning to predict drafting probabilities, aiming for higher accuracy.
 
 
 Project Organization
