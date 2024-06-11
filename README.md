@@ -79,32 +79,33 @@ Project Organization
 
 Initializing and Pushing to a Remote Repository
 -------------------------------------------------
-1. git init: Initializes a new Git repository in the current directory.
-   
-2. git remote add origin git@github.com:bhutanisaumya/Adv_MLA.git: Sets up a remote repository named "origin" with the provided URL.
+1. Initialize Repository: git init initializes a new Git repository.
+ 
+2. Add Remote Repository: git remote add origin git@github.com:bhutanisaumya/Adv_MLA.git sets up the remote repository.
+ 
+3. Stage Changes: git add . stages all changes in the current directory.
+      
+4. Commit Changes: git commit -m "first commit" commits the staged changes.
+ 
+5. Push to Remote: git push --set-upstream origin main pushes the committed changes to the remote repository's main branch.
 
-3. git add .: Stages all the changes in the current directory for the next commit.
-   
-4. git commit -m "first commit": Commits the staged changes with a descriptive commit message.
-   
-5. git push --set-upstream origin main: Pushes the committed changes to the remote repository's "main" branch, setting it as the upstream branch for future pushes.
 
 
 
 Steps to access the Project
-------------
+-------------------------------
 1. Clone the Repository:
- Using the git clone command, copy the project files from the online Git repository to your local computer.
+ Use git clone to copy the project files to your local computer.
 
 2. Access the Reository:
- Open the cmd prompt on your local machine, then go to the directory containing the cloned project.
+ Open the command prompt and navigate to the cloned project's directory.
 
 3. Create a virtual setting:
-To prevent problems with other projects, it is recommended to a separate environment for the project's dependencies.
+Set up a separate environment for the project's dependencies to avoid conflicts with other projects.
 
 4. Install Requirements:
-Using the pip install command, install the necessary libraries.
+Use pip install -r requirements.txt to install the necessary libraries.
 
 5. Execute the Code:
-Use the notebooks provided in the repository to run the code.
+Run the provided Jupyter notebooks to execute the code.
 
